@@ -1,5 +1,5 @@
 ---
-name: runbot-rundeck
+name: rundeck
 description: "Run and monitor Rundeck jobs. Use when asked to list, describe, plan, run, check status, or tail output of Rundeck automation jobs. Supports alias-driven execution, risk-based confirmation, and automatic output tailing. Triggers: rundeck, runbot, runbook, orchestrate, deploy, restart, diagnose, job status."
 metadata:
   {
